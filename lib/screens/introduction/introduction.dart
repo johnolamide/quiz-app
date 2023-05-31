@@ -22,7 +22,6 @@ class AppIntroductionScreen extends StatelessWidget {
               const Icon(
                 Icons.star,
                 size: 65,
-                color: Colors.amber,
               ),
               const SizedBox(height: 40),
               const Text("Welcome to your Study App."),
